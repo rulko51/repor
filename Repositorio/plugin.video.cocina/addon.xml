@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.cocina"
        name="[COLOR gold]Canal cocina[/COLOR][COLOR blue] 0[/COLOR].[COLOR yellow]0[/COLOR].[COLOR red]1[/COLOR]"
-       version="0.0.1"
+       version="1.0.1"
        provider-name="Rulko51">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
